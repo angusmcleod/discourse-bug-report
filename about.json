@@ -1,0 +1,11 @@
+{
+  "name": "Bug Report",
+  "about_url": null,
+  "license_url": null,
+  "assets": {
+    "bug": "assets/bug.png"
+  },
+  "color_schemes": {
+  },
+  "component": true
+}
